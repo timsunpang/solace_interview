@@ -4,7 +4,7 @@ Given more time, I would have added the following:
 - Append the query params to the url to allow for more granular search and caching.
 - Add filters to the search table (e.g. years of experience, specialties, city, etc). As implemented, search will match on names, city, degree, and specialties.
 - Add a "contact" button on the AdvocateDetail page which opens a form to send an email to the advocate.
-
+- Use a CDN for any static assets (e.g. profile pictures).
 
 # Scripts
 Large Seed (Python + Faker)
